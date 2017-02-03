@@ -10,3 +10,7 @@ A collection of useful snippets of code and random thoughts while exploring the 
 #### Servers
 
 ###### [A basic node.js server forked from ryanflorence's Github Gist](https://gist.github.com/kovid-rathee/bdd493b3d44c8913129014a803768ca4)
+
+#### Incomplete
+
+###### [CRUD with node.js, express.js, pug and MySQL](https://gist.github.com/kovid-rathee/9f488457396bf92eae46de0a2c538480) - `very little progress here`
