@@ -5,7 +5,7 @@ A collection of useful snippets of code and random thoughts while exploring the 
 
 ###### [Skeleton of a shell script to export a table from MySQL to Amazon Redshift](https://gist.github.com/kovid-rathee/54243b1705a77a7aadba7c1760f306c2)
 
-###### [A Table's Journey from MySQL to Amazon Redshift](https://medium.com/@KovidRathee/a-tables-journey-from-mysql-to-amazon-redshift-via-s3-2ad01808c6f7#.ffd18l8oc) - `a walkthrough published on Medium`
+###### [Fetch and Organize photos and videos downloaded from Instagram using InstaLooter](https://gist.github.com/kovid-rathee/4d84db567d1d77cdcf5e466ecac38cd8)
 
 #### Servers
 
@@ -14,3 +14,7 @@ A collection of useful snippets of code and random thoughts while exploring the 
 #### Incomplete
 
 ###### [CRUD with node.js, express.js, pug and MySQL](https://gist.github.com/kovid-rathee/9f488457396bf92eae46de0a2c538480) - `very little progress here`
+
+#### Blog Posts
+
+###### [A Table's Journey from MySQL to Amazon Redshift](https://medium.com/@KovidRathee/a-tables-journey-from-mysql-to-amazon-redshift-via-s3-2ad01808c6f7#.ffd18l8oc) - `a walkthrough published on Medium`
