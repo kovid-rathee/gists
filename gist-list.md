@@ -19,6 +19,8 @@ A collection of useful snippets of code and random thoughts while exploring the 
 
 ###### [CRUD with node.js, express.js, pug and MySQL](https://gist.github.com/kovid-rathee/9f488457396bf92eae46de0a2c538480) - `very little progress here`
 
+###### [Getting started with Python on a Mac](https://gist.github.com/kovid-rathee/34996c30f6442ee96888923bcaad32e8)
+
 #### Blog Posts
 
 ###### [A Table's Journey from MySQL to Amazon Redshift](https://medium.com/@KovidRathee/a-tables-journey-from-mysql-to-amazon-redshift-via-s3-2ad01808c6f7#.ffd18l8oc) - `a walkthrough published on Medium`
